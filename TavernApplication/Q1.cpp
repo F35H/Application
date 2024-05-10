@@ -1,7 +1,6 @@
 #include <unordered_map>
 #include <functional>
 #include <queue>
-#include <cstdarg>
 
 //Note: I honestly think the functions could be severely cut-back here.
 //But it's better to follow presumed style provided the performance isn't in the gutter.

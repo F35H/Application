@@ -78,3 +78,498 @@ stack traceback:
 	/client_options/options.lua:135: in function 'setup'
 	/client_options/options.lua:118: in function </client_options/options.lua:118>
 Exiting application..
+== application started at May 12 2024 04:37:30
+OTClient 0.6.6 rev 0 (df422c0) built on Feb 17 2017 for arch x86
+ERROR: lua function callback failed: LUA ERROR:
+/client_options/options.lua:237: attempt to call method 'setDrawManaBar' (a nil value)
+stack traceback:
+	[C]: in function 'setDrawManaBar'
+	/client_options/options.lua:237: in function 'setOption'
+	/client_options/options.lua:135: in function 'setup'
+	/client_options/options.lua:118: in function </client_options/options.lua:118>
+ERROR: lua function callback failed: LUA ERROR:
+/client_options/options.lua:237: attempt to call method 'setDrawManaBar' (a nil value)
+stack traceback:
+	[C]: in function 'setDrawManaBar'
+	/client_options/options.lua:237: in function 'setOption'
+	/client_options/options.lua:135: in function 'setup'
+	/client_options/options.lua:118: in function </client_options/options.lua:118>
+Exiting application..
+== application started at May 12 2024 05:17:46
+OTClient 0.6.6 rev 0 (df422c0) built on Feb 17 2017 for arch x86
+ERROR: lua function callback failed: LUA ERROR:
+/client_options/options.lua:237: attempt to call method 'setDrawManaBar' (a nil value)
+stack traceback:
+	[C]: in function 'setDrawManaBar'
+	/client_options/options.lua:237: in function 'setOption'
+	/client_options/options.lua:135: in function 'setup'
+	/client_options/options.lua:118: in function </client_options/options.lua:118>
+ERROR: lua function callback failed: LUA ERROR:
+/client_options/options.lua:237: attempt to call method 'setDrawManaBar' (a nil value)
+stack traceback:
+	[C]: in function 'setDrawManaBar'
+	/client_options/options.lua:237: in function 'setOption'
+	/client_options/options.lua:135: in function 'setup'
+	/client_options/options.lua:118: in function </client_options/options.lua:118>
+ERROR: lua function callback failed: LUA ERROR:
+/client_options/options.lua:237: attempt to call method 'setDrawManaBar' (a nil value)
+stack traceback:
+	[C]: in function 'setDrawManaBar'
+	/client_options/options.lua:237: in function 'setOption'
+	/client_options/options.lua:135: in function 'setup'
+	/client_options/options.lua:118: in function </client_options/options.lua:118>
+ERROR: lua function callback failed: LUA ERROR:
+/game_skills/skills.lua:107: attempt to index local 'skill' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_skills/skills.lua:107: in function 'setSkillValue'
+	/game_skills/skills.lua:292: in function 'onLevelChange'
+	/game_skills/skills.lua:261: in function </game_skills/skills.lua:253>
+ERROR: lua function callback failed: LUA ERROR:
+/game_skills/skills.lua:107: attempt to index local 'skill' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_skills/skills.lua:107: in function 'setSkillValue'
+	/game_skills/skills.lua:292: in function 'onLevelChange'
+	/game_skills/skills.lua:261: in function </game_skills/skills.lua:253>
+ERROR: lua function callback failed: LUA ERROR:
+/game_skills/skills.lua:107: attempt to index local 'skill' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_skills/skills.lua:107: in function 'setSkillValue'
+	/game_skills/skills.lua:292: in function 'onLevelChange'
+	/game_skills/skills.lua:261: in function </game_skills/skills.lua:253>
+ERROR: lua function callback failed: LUA ERROR:
+/game_skills/skills.lua:107: attempt to index local 'skill' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_skills/skills.lua:107: in function 'setSkillValue'
+	/game_skills/skills.lua:292: in function 'onLevelChange'
+	/game_skills/skills.lua:261: in function </game_skills/skills.lua:253>
+ERROR: lua function callback failed: LUA ERROR:
+/game_skills/skills.lua:107: attempt to index local 'skill' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_skills/skills.lua:107: in function 'setSkillValue'
+	/game_skills/skills.lua:292: in function 'onLevelChange'
+	/game_skills/skills.lua:261: in function </game_skills/skills.lua:253>
+ERROR: lua function callback failed: LUA ERROR:
+/game_skills/skills.lua:107: attempt to index local 'skill' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_skills/skills.lua:107: in function 'setSkillValue'
+	/game_skills/skills.lua:292: in function 'onLevelChange'
+	/game_skills/skills.lua:261: in function </game_skills/skills.lua:253>
+ERROR: lua function callback failed: LUA ERROR:
+/game_skills/skills.lua:107: attempt to index local 'skill' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_skills/skills.lua:107: in function 'setSkillValue'
+	/game_skills/skills.lua:292: in function 'onLevelChange'
+	/game_skills/skills.lua:261: in function </game_skills/skills.lua:253>
+ERROR: lua function callback failed: LUA ERROR:
+/game_skills/skills.lua:107: attempt to index local 'skill' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_skills/skills.lua:107: in function 'setSkillValue'
+	/game_skills/skills.lua:292: in function 'onLevelChange'
+	/game_skills/skills.lua:261: in function </game_skills/skills.lua:253>
+ERROR: protected lua call failed: LUA ERROR:
+..._interface/gameinterface.otui:77: [@canUpdateMargin]:1: attempt to index field 'client_options' (a nil value)
+stack traceback:
+	[C]: ?
+	..._interface/gameinterface.otui:77: [@canUpdateMargin]:1: in function 'canUpdateMargin'
+	/corelib/ui/uisplitter.lua:14: in function </corelib/ui/uisplitter.lua:11>
+ERROR: lua function callback failed: LUA ERROR:
+/game_skills/skills.lua:107: attempt to index local 'skill' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_skills/skills.lua:107: in function 'setSkillValue'
+	/game_skills/skills.lua:292: in function 'onLevelChange'
+	/game_skills/skills.lua:261: in function </game_skills/skills.lua:253>
+ERROR: lua function callback failed: LUA ERROR:
+/game_skills/skills.lua:107: attempt to index local 'skill' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_skills/skills.lua:107: in function 'setSkillValue'
+	/game_skills/skills.lua:292: in function 'onLevelChange'
+	/game_skills/skills.lua:261: in function </game_skills/skills.lua:253>
+ERROR: lua function callback failed: LUA ERROR:
+/game_skills/skills.lua:107: attempt to index local 'skill' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_skills/skills.lua:107: in function 'setSkillValue'
+	/game_skills/skills.lua:292: in function 'onLevelChange'
+	/game_skills/skills.lua:261: in function </game_skills/skills.lua:253>
+ERROR: lua function callback failed: LUA ERROR:
+/game_skills/skills.lua:107: attempt to index local 'skill' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_skills/skills.lua:107: in function 'setSkillValue'
+	/game_skills/skills.lua:292: in function 'onLevelChange'
+	/game_skills/skills.lua:261: in function </game_skills/skills.lua:253>
+ERROR: lua function callback failed: LUA ERROR:
+/game_skills/skills.lua:107: attempt to index local 'skill' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_skills/skills.lua:107: in function 'setSkillValue'
+	/game_skills/skills.lua:292: in function 'onLevelChange'
+	/game_skills/skills.lua:261: in function </game_skills/skills.lua:253>
+ERROR: protected lua call failed: LUA ERROR:
+..._interface/gameinterface.otui:77: [@canUpdateMargin]:1: attempt to index field 'client_options' (a nil value)
+stack traceback:
+	[C]: ?
+	..._interface/gameinterface.otui:77: [@canUpdateMargin]:1: in function 'canUpdateMargin'
+	/corelib/ui/uisplitter.lua:14: in function </corelib/ui/uisplitter.lua:11>
+ERROR: Unable to unload module 'game_interface': LUA ERROR:
+/game_interface/gameinterface.lua:206: attempt to index field 'client_background' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:206: in function 'hide'
+	/game_interface/gameinterface.lua:134: in function 'terminate'
+	/game_interface/interface.otmod:35:[@onUnload]:1: in main chunk
+	[C]: in function 'reloadModules'
+	/client_modulemanager/modulemanager.lua:149: in function 'reloadAllModules'
+	...ient_modulemanager/modulemanager.otui:75: [@onClick]:2: in function <...ient_modulemanager/modulemanager.otui:75: [@onClick]:1>
+ERROR: Unable to load module 'game_interface': LUA ERROR:
+/game_interface/gameinterface.lua:170: attempt to index field 'client_background' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:170: in function 'show'
+	/game_interface/gameinterface.lua:70: in function 'init'
+	/game_interface/interface.otmod:34:[@onLoad]:1: in main chunk
+	[C]: in function 'reloadModules'
+	/client_modulemanager/modulemanager.lua:149: in function 'reloadAllModules'
+	...ient_modulemanager/modulemanager.otui:75: [@onClick]:2: in function <...ient_modulemanager/modulemanager.otui:75: [@onClick]:1>
+ERROR: Unable to load module 'game_textmessage': LUA ERROR:
+/game_textmessage/textmessage.lua:62: attempt to index field 'game_interface' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_textmessage/textmessage.lua:62: in function 'init'
+	/game_textmessage/textmessage.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'reloadModules'
+	/client_modulemanager/modulemanager.lua:149: in function 'reloadAllModules'
+	...ient_modulemanager/modulemanager.otui:75: [@onClick]:2: in function <...ient_modulemanager/modulemanager.otui:75: [@onClick]:1>
+ERROR: Unable to load module 'game_console': LUA ERROR:
+/game_console/console.lua:112: attempt to index field 'game_interface' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_console/console.lua:112: in function 'init'
+	/game_console/console.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'reloadModules'
+	/client_modulemanager/modulemanager.lua:149: in function 'reloadAllModules'
+	...ient_modulemanager/modulemanager.otui:75: [@onClick]:2: in function <...ient_modulemanager/modulemanager.otui:75: [@onClick]:1>
+ERROR: Unable to load module 'game_viplist': LUA ERROR:
+/game_viplist/viplist.lua:18: attempt to index field 'game_interface' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_viplist/viplist.lua:18: in function 'init'
+	/game_viplist/viplist.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'reloadModules'
+	/client_modulemanager/modulemanager.lua:149: in function 'reloadAllModules'
+	...ient_modulemanager/modulemanager.otui:75: [@onClick]:2: in function <...ient_modulemanager/modulemanager.otui:75: [@onClick]:1>
+ERROR: Unable to load module 'game_battle': LUA ERROR:
+/game_battle/battle.lua:24: attempt to index field 'game_interface' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_battle/battle.lua:24: in function 'init'
+	/game_battle/battle.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'reloadModules'
+	/client_modulemanager/modulemanager.lua:149: in function 'reloadAllModules'
+	...ient_modulemanager/modulemanager.otui:75: [@onClick]:2: in function <...ient_modulemanager/modulemanager.otui:75: [@onClick]:1>
+ERROR: Unable to load module 'game_minimap': LUA ERROR:
+/game_minimap/minimap.lua:15: attempt to index field 'game_interface' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_minimap/minimap.lua:15: in function 'init'
+	/game_minimap/minimap.otmod:8:[@onLoad]:1: in main chunk
+	[C]: in function 'reloadModules'
+	/client_modulemanager/modulemanager.lua:149: in function 'reloadAllModules'
+	...ient_modulemanager/modulemanager.otui:75: [@onClick]:2: in function <...ient_modulemanager/modulemanager.otui:75: [@onClick]:1>
+ERROR: Unable to load module 'game_interface': LUA ERROR:
+/game_interface/gameinterface.lua:170: attempt to index field 'client_background' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:170: in function 'show'
+	/game_interface/gameinterface.lua:70: in function 'init'
+	/game_interface/interface.otmod:34:[@onLoad]:1: in main chunk
+	[C]: in function 'reloadModules'
+	/client_modulemanager/modulemanager.lua:149: in function 'reloadAllModules'
+	...ient_modulemanager/modulemanager.otui:75: [@onClick]:2: in function <...ient_modulemanager/modulemanager.otui:75: [@onClick]:1>
+ERROR: Unable to load module 'game_jump': dependency 'game_interface' has failed to load
+ERROR: lua function callback failed: LUA ERROR:
+/client_topmenu/topmenu.lua:74: attempt to index field 'client_options' (a nil value)
+stack traceback:
+	[C]: ?
+	/client_topmenu/topmenu.lua:74: in function </client_topmenu/topmenu.lua:73>
+ERROR: protected lua call failed: LUA ERROR:
+/game_interface/gameinterface.lua:357: attempt to index field 'client_options' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:357: in function </game_interface/gameinterface.lua:356>
+ERROR: protected lua call failed: LUA ERROR:
+/game_interface/gameinterface.lua:357: attempt to index field 'client_options' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:357: in function </game_interface/gameinterface.lua:356>
+ERROR: lua function callback failed: LUA ERROR:
+/client_topmenu/topmenu.lua:74: attempt to index field 'client_options' (a nil value)
+stack traceback:
+	[C]: ?
+	/client_topmenu/topmenu.lua:74: in function </client_topmenu/topmenu.lua:73>
+ERROR: Unable to load module 'game_interface': LUA ERROR:
+/game_interface/gameinterface.lua:170: attempt to index field 'client_background' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:170: in function 'show'
+	/game_interface/gameinterface.lua:70: in function 'init'
+	/game_interface/interface.otmod:34:[@onLoad]:1: in main chunk
+	[C]: in function 'reload'
+	/client_modulemanager/modulemanager.lua:126: in function 'reloadCurrentModule'
+	...ent_modulemanager/modulemanager.otui:134: [@onClick]:2: in function <...ent_modulemanager/modulemanager.otui:134: [@onClick]:1>
+ERROR: Unable to load module 'game_jump': dependency 'game_interface' has failed to load
+ERROR: protected lua call failed: LUA ERROR:
+/game_interface/gameinterface.lua:357: attempt to index field 'client_options' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:357: in function </game_interface/gameinterface.lua:356>
+ERROR: lua function callback failed: LUA ERROR:
+/game_skills/skills.lua:107: attempt to index local 'skill' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_skills/skills.lua:107: in function 'setSkillValue'
+	/game_skills/skills.lua:292: in function 'onLevelChange'
+	/game_skills/skills.lua:261: in function </game_skills/skills.lua:253>
+ERROR: Unable to load module 'game_interface': LUA ERROR:
+/game_interface/gameinterface.lua:170: attempt to index field 'client_background' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:170: in function 'show'
+	/game_interface/gameinterface.lua:70: in function 'init'
+	/game_interface/interface.otmod:34:[@onLoad]:1: in main chunk
+	[C]: in function 'reload'
+	/client_modulemanager/modulemanager.lua:126: in function 'reloadCurrentModule'
+	...ent_modulemanager/modulemanager.otui:134: [@onClick]:2: in function <...ent_modulemanager/modulemanager.otui:134: [@onClick]:1>
+ERROR: Unable to load module 'game_jump': dependency 'game_interface' has failed to load
+ERROR: protected lua call failed: LUA ERROR:
+/game_interface/gameinterface.lua:357: attempt to index field 'client_options' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:357: in function </game_interface/gameinterface.lua:356>
+ERROR: Unable to load module 'game_interface': LUA ERROR:
+/game_interface/gameinterface.lua:170: attempt to index field 'client_background' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:170: in function 'show'
+	/game_interface/gameinterface.lua:70: in function 'init'
+	/game_interface/interface.otmod:34:[@onLoad]:1: in main chunk
+	[C]: in function 'reload'
+	/client_modulemanager/modulemanager.lua:126: in function 'reloadCurrentModule'
+	...ent_modulemanager/modulemanager.otui:134: [@onClick]:2: in function <...ent_modulemanager/modulemanager.otui:134: [@onClick]:1>
+ERROR: Unable to load module 'game_jump': dependency 'game_interface' has failed to load
+ERROR: protected lua call failed: LUA ERROR:
+/game_interface/gameinterface.lua:357: attempt to index field 'client_options' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:357: in function </game_interface/gameinterface.lua:356>
+ERROR: Unable to load module 'game_interface': LUA ERROR:
+/game_interface/gameinterface.lua:170: attempt to index field 'client_background' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:170: in function 'show'
+	/game_interface/gameinterface.lua:70: in function 'init'
+	/game_interface/interface.otmod:34:[@onLoad]:1: in main chunk
+	[C]: in function 'reload'
+	/client_modulemanager/modulemanager.lua:126: in function 'reloadCurrentModule'
+	...ent_modulemanager/modulemanager.otui:134: [@onClick]:2: in function <...ent_modulemanager/modulemanager.otui:134: [@onClick]:1>
+ERROR: Unable to load module 'game_jump': dependency 'game_interface' has failed to load
+ERROR: protected lua call failed: LUA ERROR:
+/game_interface/gameinterface.lua:357: attempt to index field 'client_options' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:357: in function </game_interface/gameinterface.lua:356>
+ERROR: Unable to load module 'game_interface': LUA ERROR:
+/game_interface/gameinterface.lua:170: attempt to index field 'client_background' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:170: in function 'show'
+	/game_interface/gameinterface.lua:70: in function 'init'
+	/game_interface/interface.otmod:34:[@onLoad]:1: in main chunk
+	[C]: in function 'reload'
+	/client_modulemanager/modulemanager.lua:126: in function 'reloadCurrentModule'
+	...ent_modulemanager/modulemanager.otui:134: [@onClick]:2: in function <...ent_modulemanager/modulemanager.otui:134: [@onClick]:1>
+ERROR: Unable to load module 'game_jump': dependency 'game_interface' has failed to load
+ERROR: protected lua call failed: LUA ERROR:
+/game_interface/gameinterface.lua:357: attempt to index field 'client_options' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:357: in function </game_interface/gameinterface.lua:356>
+ERROR: Unable to load module 'game_interface': LUA ERROR:
+/game_interface/gameinterface.lua:170: attempt to index field 'client_background' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:170: in function 'show'
+	/game_interface/gameinterface.lua:70: in function 'init'
+	/game_interface/interface.otmod:34:[@onLoad]:1: in main chunk
+	[C]: in function 'reload'
+	/client_modulemanager/modulemanager.lua:126: in function 'reloadCurrentModule'
+	...ent_modulemanager/modulemanager.otui:134: [@onClick]:2: in function <...ent_modulemanager/modulemanager.otui:134: [@onClick]:1>
+ERROR: Unable to load module 'game_jump': dependency 'game_interface' has failed to load
+ERROR: protected lua call failed: LUA ERROR:
+/game_interface/gameinterface.lua:357: attempt to index field 'client_options' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:357: in function </game_interface/gameinterface.lua:356>
+ERROR: Unable to load module 'game_interface': LUA ERROR:
+/game_interface/gameinterface.lua:170: attempt to index field 'client_background' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:170: in function 'show'
+	/game_interface/gameinterface.lua:70: in function 'init'
+	/game_interface/interface.otmod:34:[@onLoad]:1: in main chunk
+	[C]: in function 'reload'
+	/client_modulemanager/modulemanager.lua:126: in function 'reloadCurrentModule'
+	...ent_modulemanager/modulemanager.otui:134: [@onClick]:2: in function <...ent_modulemanager/modulemanager.otui:134: [@onClick]:1>
+ERROR: Unable to load module 'game_jump': dependency 'game_interface' has failed to load
+ERROR: protected lua call failed: LUA ERROR:
+/game_interface/gameinterface.lua:357: attempt to index field 'client_options' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:357: in function </game_interface/gameinterface.lua:356>
+ERROR: Unable to load module 'game_interface': LUA ERROR:
+/game_interface/gameinterface.lua:170: attempt to index field 'client_background' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:170: in function 'show'
+	/game_interface/gameinterface.lua:70: in function 'init'
+	/game_interface/interface.otmod:34:[@onLoad]:1: in main chunk
+	[C]: in function 'reload'
+	/client_modulemanager/modulemanager.lua:126: in function 'reloadCurrentModule'
+	...ent_modulemanager/modulemanager.otui:134: [@onClick]:2: in function <...ent_modulemanager/modulemanager.otui:134: [@onClick]:1>
+ERROR: Unable to load module 'game_jump': dependency 'game_interface' has failed to load
+ERROR: protected lua call failed: LUA ERROR:
+/game_interface/gameinterface.lua:357: attempt to index field 'client_options' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:357: in function </game_interface/gameinterface.lua:356>
+ERROR: Unable to load module 'game_interface': LUA ERROR:
+/game_interface/gameinterface.lua:170: attempt to index field 'client_background' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:170: in function 'show'
+	/game_interface/gameinterface.lua:70: in function 'init'
+	/game_interface/interface.otmod:34:[@onLoad]:1: in main chunk
+	[C]: in function 'reload'
+	/client_modulemanager/modulemanager.lua:126: in function 'reloadCurrentModule'
+	...ent_modulemanager/modulemanager.otui:134: [@onClick]:2: in function <...ent_modulemanager/modulemanager.otui:134: [@onClick]:1>
+ERROR: Unable to load module 'game_jump': dependency 'game_interface' has failed to load
+ERROR: protected lua call failed: LUA ERROR:
+/game_interface/gameinterface.lua:357: attempt to index field 'client_options' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:357: in function </game_interface/gameinterface.lua:356>
+ERROR: Unable to load module 'game_interface': LUA ERROR:
+/game_interface/gameinterface.lua:170: attempt to index field 'client_background' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:170: in function 'show'
+	/game_interface/gameinterface.lua:70: in function 'init'
+	/game_interface/interface.otmod:34:[@onLoad]:1: in main chunk
+	[C]: in function 'reload'
+	/client_modulemanager/modulemanager.lua:126: in function 'reloadCurrentModule'
+	...ent_modulemanager/modulemanager.otui:134: [@onClick]:2: in function <...ent_modulemanager/modulemanager.otui:134: [@onClick]:1>
+ERROR: Unable to load module 'game_jump': dependency 'game_interface' has failed to load
+ERROR: protected lua call failed: LUA ERROR:
+/game_interface/gameinterface.lua:357: attempt to index field 'client_options' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:357: in function </game_interface/gameinterface.lua:356>
+ERROR: Unable to load module 'game_interface': LUA ERROR:
+/game_interface/gameinterface.lua:170: attempt to index field 'client_background' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:170: in function 'show'
+	/game_interface/gameinterface.lua:70: in function 'init'
+	/game_interface/interface.otmod:34:[@onLoad]:1: in main chunk
+	[C]: in function 'reload'
+	/client_modulemanager/modulemanager.lua:126: in function 'reloadCurrentModule'
+	...ent_modulemanager/modulemanager.otui:134: [@onClick]:2: in function <...ent_modulemanager/modulemanager.otui:134: [@onClick]:1>
+ERROR: Unable to load module 'game_jump': dependency 'game_interface' has failed to load
+ERROR: protected lua call failed: LUA ERROR:
+/game_interface/gameinterface.lua:357: attempt to index field 'client_options' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:357: in function </game_interface/gameinterface.lua:356>
+ERROR: Unable to load module 'game_interface': LUA ERROR:
+/game_interface/gameinterface.lua:170: attempt to index field 'client_background' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:170: in function 'show'
+	/game_interface/gameinterface.lua:70: in function 'init'
+	/game_interface/interface.otmod:34:[@onLoad]:1: in main chunk
+	[C]: in function 'reload'
+	/client_modulemanager/modulemanager.lua:126: in function 'reloadCurrentModule'
+	...ent_modulemanager/modulemanager.otui:134: [@onClick]:2: in function <...ent_modulemanager/modulemanager.otui:134: [@onClick]:1>
+ERROR: Unable to load module 'game_jump': dependency 'game_interface' has failed to load
+ERROR: protected lua call failed: LUA ERROR:
+/game_interface/gameinterface.lua:357: attempt to index field 'client_options' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:357: in function </game_interface/gameinterface.lua:356>
+ERROR: Unable to load module 'game_interface': LUA ERROR:
+/game_interface/gameinterface.lua:170: attempt to index field 'client_background' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:170: in function 'show'
+	/game_interface/gameinterface.lua:70: in function 'init'
+	/game_interface/interface.otmod:34:[@onLoad]:1: in main chunk
+	[C]: in function 'reload'
+	/client_modulemanager/modulemanager.lua:126: in function 'reloadCurrentModule'
+	...ent_modulemanager/modulemanager.otui:134: [@onClick]:2: in function <...ent_modulemanager/modulemanager.otui:134: [@onClick]:1>
+ERROR: Unable to load module 'game_jump': dependency 'game_interface' has failed to load
+ERROR: protected lua call failed: LUA ERROR:
+/game_interface/gameinterface.lua:357: attempt to index field 'client_options' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:357: in function </game_interface/gameinterface.lua:356>
+ERROR: lua function callback failed: LUA ERROR:
+/game_skills/skills.lua:107: attempt to index local 'skill' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_skills/skills.lua:107: in function 'setSkillValue'
+	/game_skills/skills.lua:292: in function 'onLevelChange'
+	/game_skills/skills.lua:261: in function </game_skills/skills.lua:253>
+ERROR: lua function callback failed: LUA ERROR:
+/game_skills/skills.lua:107: attempt to index local 'skill' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_skills/skills.lua:107: in function 'setSkillValue'
+	/game_skills/skills.lua:292: in function 'onLevelChange'
+	/game_skills/skills.lua:261: in function </game_skills/skills.lua:253>
+ERROR: protected lua call failed: LUA ERROR:
+/game_interface/gameinterface.lua:206: attempt to index field 'client_background' (a nil value)
+stack traceback:
+	[C]: ?
+	/game_interface/gameinterface.lua:206: in function 'hide'
+	/game_interface/gameinterface.lua:165: in function </game_interface/gameinterface.lua:163>
+	[C]: in function 'cancelLogin'
+	/game_interface/gameinterface.lua:229: in function 'forceExit'
+	/game_interface/gameinterface.lua:239: in function </game_interface/gameinterface.lua:239>
+Exiting application..
+== application started at May 12 2024 05:29:20
+OTClient 0.6.6 rev 0 (df422c0) built on Feb 17 2017 for arch x86
+ERROR: lua function callback failed: LUA ERROR:
+/client_options/options.lua:237: attempt to call method 'setDrawManaBar' (a nil value)
+stack traceback:
+	[C]: in function 'setDrawManaBar'
+	/client_options/options.lua:237: in function 'setOption'
+	/client_options/options.lua:135: in function 'setup'
+	/client_options/options.lua:118: in function </client_options/options.lua:118>
+ERROR: lua function callback failed: LUA ERROR:
+/client_options/options.lua:237: attempt to call method 'setDrawManaBar' (a nil value)
+stack traceback:
+	[C]: in function 'setDrawManaBar'
+	/client_options/options.lua:237: in function 'setOption'
+	/client_options/options.lua:135: in function 'setup'
+	/client_options/options.lua:118: in function </client_options/options.lua:118>
+Exiting application..

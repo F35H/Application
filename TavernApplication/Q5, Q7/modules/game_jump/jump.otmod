@@ -1,0 +1,11 @@
+Module
+  name: game_jump
+  description: jump
+  author: baxnie, edubart
+  website: https://github.com/edubart/otclient
+  sandboxed: true
+  scripts: [ jump ]
+  @onLoad: init()
+  @onUnload: terminate()
+  dependencies:
+    - game_interface

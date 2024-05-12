@@ -1,0 +1,15 @@
+MainWindow
+  !text: tr('Spells')
+  size: 160 450
+
+  @onEnter: modules.game_jump.destroy()
+  @onEscape: modules.game_jump.destroy()
+
+  Label
+    id: jumpLabel
+    !text: tr('Jump Menu')
+    width: 130
+    anchors.top: prev.top
+    anchors.left: prev.left
+    margin-top: 5
+    margin-left: 5

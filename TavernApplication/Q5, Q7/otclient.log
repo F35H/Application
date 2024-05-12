@@ -58,3 +58,23 @@ stack traceback:
 	/client_options/options.lua:135: in function 'setup'
 	/client_options/options.lua:118: in function </client_options/options.lua:118>
 Exiting application..
+== application started at May 12 2024 04:07:58
+OTClient 0.6.6 rev 0 (df422c0) built on Feb 17 2017 for arch x86
+ERROR: lua function callback failed: LUA ERROR:
+/client_options/options.lua:237: attempt to call method 'setDrawManaBar' (a nil value)
+stack traceback:
+	[C]: in function 'setDrawManaBar'
+	/client_options/options.lua:237: in function 'setOption'
+	/client_options/options.lua:135: in function 'setup'
+	/client_options/options.lua:118: in function </client_options/options.lua:118>
+Exiting application..
+== application started at May 12 2024 04:18:23
+OTClient 0.6.6 rev 0 (df422c0) built on Feb 17 2017 for arch x86
+ERROR: lua function callback failed: LUA ERROR:
+/client_options/options.lua:237: attempt to call method 'setDrawManaBar' (a nil value)
+stack traceback:
+	[C]: in function 'setDrawManaBar'
+	/client_options/options.lua:237: in function 'setOption'
+	/client_options/options.lua:135: in function 'setup'
+	/client_options/options.lua:118: in function </client_options/options.lua:118>
+Exiting application..

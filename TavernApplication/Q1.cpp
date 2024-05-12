@@ -48,11 +48,12 @@ inline bool zeroStorageByKey(Player& player, uint32_t storageValue) {
 inline const bool onPlayerLogout(Player& player) {
   //Presuming that -1 and 0 is never actually used, it'd be better to use zero to avoid the extra comparison operator.
   //That's also assuming I was supposed to use -1 and not positive 1
-  if (player.getStorageValue(1000)) {
+  if (player.getStorageValue(1000) != std::end) {
     //Personally, I would prefer to use a bit flag or similar notification.
     //However, I will assume using a function like this is intentional.
     //Assuming the reason for a boolean is error correction, return false on failure
     if (!EventHandler::addEvent(zeroStorageByKey, player, 1000)) return false;
-  };
+  }
+  else return false;
   return true;
 };

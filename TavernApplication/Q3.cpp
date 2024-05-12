@@ -86,8 +86,7 @@ bool removePlayerFromParty(uint32_t localPlayerId, uint32_t partyPlayerId) {
   //I use this simply following the idea "fast" should only be used in short-term use situations due to memory locality.
   for (uint_fast8_t playerIndex = 0; playerIndex <= partiedPlayerCount; ++playerIndex) {
     if (playerParty[playerIndex].getId() == partyPlayerId) {
-      auto removedPlayer = playerParty[playerIndex];
-      
+
       //determine if deallocating the array is the correct move
       for (uint_fast8_t emptyPlayerIdx = 0; emptyPlayerIdx <= partiedPlayerCount; ++emptyPlayerIdx) {
         if (playerParty[emptyPlayerIdx].getId() == partyPlayerId) continue;
@@ -98,6 +97,7 @@ bool removePlayerFromParty(uint32_t localPlayerId, uint32_t partyPlayerId) {
 
       //This is rather prone to memory leaks. This should probably be clearly labled and noted down SOMEWHERE
       if (determineSuccess) delete playerParty[playerIndex].getPartyArrayPtr();
+      else playerParty[playerIndex] = Player(0);
       determineSuccess = true;
     }
     else {
